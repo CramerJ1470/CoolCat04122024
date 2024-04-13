@@ -48,3 +48,11 @@ CoolCat will be a new way to store data at points in basically infinite larger o
 
 #
 
+<p align="justify">
+To setup the repo, first fork the CoolCat4122024 Repo, then clone the forked repository to create a copy on the local machine.
+</p>
+
+    $ git clone https://github.com/CramerJ1470/CoolCat04122024.git
+
+<p align="justify">
+
