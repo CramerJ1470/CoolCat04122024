@@ -59,6 +59,34 @@ Change directory to the cloned repo and set the original CoolCat4122024 reposito
     $ git remote add upstream https://github.com/CramerJ1470/CoolCat04122024.git
 #
 
+> ## Setup the Project
+**`*Note:`**
+
+<p align="justify">
+This project was setup on a windows 10 system using the gitbash terminal. Some of the commands used may not work with the VScode terminal, command prompt or powershell.
+</p>
+
+The steps involved are outlined below:-
+#
+> ### Install Hardhat
+The first step involves cloning and installing hardhat.
+```shell
+$ cd core
+
+$ npm i -D hardhat
+
+$ npm install
+
+$ npm install --save-dev "@nomiclabs/hardhat-waffle" "ethereum-waffle" "chai" "@nomiclabs/hardhat-ethers" "ethers" "web3" "@nomiclabs/hardhat-web3" "@nomiclabs/hardhat-etherscan" "@openzeppelin/contracts" "dotenv" "@tenderly/hardhat-tenderly" "hardhat-gas-reporter" "hardhat-deploy"
+```
+> ### Env Setup
+ Next create a `.env` file by using the sample.env. Retrieve your information from the relevant sites and input the information where needed in the `.env` file.
+
+
+
+
+
+#
 
 > ## Contributors
 
