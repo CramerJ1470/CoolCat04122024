@@ -8,15 +8,14 @@
 - [Overview](#overview)
 - [Core Features Implemented](#core-features-implemented)
 - [Technologies](#technologies)
-[- [Repo Setup](#repo-setup)
-  [- [Requirements](#requirements)
+- [Repo Setup](#repo-setup)
+- [Requirements](#requirements)
 - [Setup the Project](#setup-the-project)
 
 - [Setup the Frontend](#setup-the-frontend)
   - [Install Dependencies](#install-dependencies)
   - [Steps to host the live site on Vercel](#steps-to-host-the-live-site-on-vercel)
-- [Testing the Smartcontract](#testing-the-smartcontract)
-- [Sporteka-MVP Contract Address](#Nft-factory-contract-address)
+
 - [Live Link](#live-link)
 - [Contributors](#contributors)
 - [Contributing to the project](#contributing-to-the-project)
@@ -57,6 +56,20 @@ To setup the repo, first fork the CoolCat4122024 Repo, then clone the forked rep
 
 Change directory to the cloned repo and set the original CoolCat4122024 repository as the "upstream" and your forked repository as the "origin" using gitbash. and make sure to switch to dev branch
 </p>
+
+> ## Contributors
+
+This Project was created by these awesome dedicated members
+
+
+ <a href="https://github.com/CramerJ1470" target="_blank">**John Cramer**</a>
+<br />
+
+
+ 
+> ## Contributing to the project
+
+If you find something worth contributing, please fork the repo, make a pull request and add valid and well-reasoned explanations about your changes or comments.
 
     $ git remote add upstream  https://github.com/CramerJ1470/CoolCat04122024.git
 
