@@ -9,11 +9,9 @@
 - [Core Features Implemented](#core-features-implemented)
 - [Technologies](#technologies)
 - [Repo Setup](#repo-setup)
-- [Requirements](#requirements)
+[comment]: - [Requirements](#requirements)
 - [Setup the Project](#setup-the-project)
-  - [Install Hardhat](#install-hardhat)
-  - [Env Setup](#env-setup)
-  - [Setup Hardhat.config](#setup-hardhatconfig)
+
 - [Setup the Frontend](#setup-the-frontend)
   - [Install Dependencies](#install-dependencies)
   - [Steps to host the live site on Vercel](#steps-to-host-the-live-site-on-vercel)
