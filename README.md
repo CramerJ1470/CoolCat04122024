@@ -80,12 +80,7 @@ $ npm install
 $ npm install --save-dev "@nomiclabs/hardhat-waffle" "ethereum-waffle" "chai" "@nomiclabs/hardhat-ethers" "ethers" "web3" "@nomiclabs/hardhat-web3" "@nomiclabs/hardhat-etherscan" "@openzeppelin/contracts" "dotenv" "@tenderly/hardhat-tenderly" "hardhat-gas-reporter" "hardhat-deploy"
 ```
 > ### Env Setup
- Next create a `.env` file by using the sample.env. Retrieve your information from the relevant sites and input the information where needed in the `.env` file.
-
-
-
-
-
+ Next create a `.env` file by using the sample.env. (This is in the Client folder). Retrieve your information from the relevant sites and input the information where needed in the `.env` file.
 #
 
 > ## Contributors
