@@ -25,5 +25,5 @@
 #
 > ## Overview
 <p align="justify">
-Sporteka aims to revolutionize the sports industry by providing a cutting-edge Blockchain platform where users can trade future contracts of players, invest in clubs, and engage in predictive match outcomes. We strive to create an innovative, fair, and transparent ecosystem that benefits sports enthusiasts, clubs, and investors worldwide.
+CoolCat will be a new way to store data at points in basically infinite larger or smaller node addresses. A form of hashing and key pairs to handshake and verify data locations. 
 </p>
