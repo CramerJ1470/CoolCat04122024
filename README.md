@@ -62,7 +62,7 @@ Change directory to the cloned repo and set the original CoolCat4122024 reposito
 This Project was created by these awesome dedicated members
 
 
- <a href="https://github.com/CramerJ1470" target="_blank">**John Cramer  Full Stack Developer/Blockchain Student**</a>
+ <a href="https://github.com/CramerJ1470" target="_blank">**John Cramer **</a> Full Stack Developer/Blockchain Student
 <br />
 
 
