@@ -53,12 +53,11 @@ To setup the repo, first fork the CoolCat4122024 Repo, then clone the forked rep
     $ git clone https://github.com/CramerJ1470/CoolCat04122024.git
 
 <p align="justify">
-
 Change directory to the cloned repo and set the original CoolCat4122024 repository as the "upstream" and your forked repository as the "origin" using gitbash. and make sure to switch to dev branch
 </p>
 
    $ git remote add upstream https://github.com/CramerJ1470/CoolCat04122024.git
-
+#
 
 
 > ## Contributors
