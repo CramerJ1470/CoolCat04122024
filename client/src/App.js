@@ -11,8 +11,10 @@ function App() {
           Where you get smaller and smaller while you get larger and larger
         </p>
        
+   
       </header>
     </div>
+    
   );
 }
 
