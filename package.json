@@ -1,0 +1,20 @@
+{
+	"name": "coolcat4122024",
+	"version": "1.0.0",
+	"description": "CoolCat 04.12.2024 Hardhat.Server.Client",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"client": "cd client && npm run start",
+		"backend": "cd server && npm run server",
+		"start": "concurrently \"npm run backend\"  \"npm run client\""
+	},
+	"author": "FrontEnd/Backend/SmartContracts -John Cramer",
+	"license": "ISC",
+	"dependencies": {
+		"concurrently": "^7.6.0"
+	},
+	"devDependencies": {
+		"jshint": "^2.13.6"
+	}
+}
