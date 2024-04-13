@@ -1,6 +1,6 @@
 ﻿# CoolCat04122024
 
- <p align="center" width="100%">
+ <p align="center" width="69%">
   <img src="https://github.com/CramerJ1470/CoolCat04122024/blob/master/RedSphere.png" alt="site"/>
 </p>
 
