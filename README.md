@@ -1,7 +1,7 @@
 ﻿# CoolCat04122024
 
  <p align="center" width="100%">
-  <img src="https://github.com/CoolCat4122024/" alt="site"/>
+  <img src="https://github.com/CramerJ1470/CoolCat04122024/blob/master/RedSphere.png" alt="site"/>
 </p>
 
 > ## Table of contents
