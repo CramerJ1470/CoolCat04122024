@@ -8,7 +8,7 @@
 - [Overview](#overview)
 - [Core Features Implemented](#core-features-implemented)
 - [Technologies](#technologies)
-- [Repo Setup](#repo-setup)
+[- [Repo Setup](#repo-setup)
   [- [Requirements](#requirements)
 - [Setup the Project](#setup-the-project)
 
@@ -19,7 +19,8 @@
 - [Sporteka-MVP Contract Address](#Nft-factory-contract-address)
 - [Live Link](#live-link)
 - [Contributors](#contributors)
-- [Contributing to the project](#contributing-to-the-project)]:
+- [Contributing to the project](#contributing-to-the-project)
+- ]
 #
 > ## Overview
 <p align="justify">
