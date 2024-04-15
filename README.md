@@ -23,7 +23,7 @@
 #
 > ## Overview
 <p align="justify">
-CoolCat will be a new way to store data at points in basically infinite larger or smaller node addresses. A form of hashing and key pairs to handshake and verify data locations. 
+CoolCat will be a new way to store data at points in basically infinite larger or smaller node addresses. A form of hashing and key pairs to handshake and verify CoolCat data locations. 
 </p>
 
 #
