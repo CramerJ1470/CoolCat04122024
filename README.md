@@ -31,7 +31,7 @@ CoolCat will be a new way to store data at points in basically infinite larger o
 
 `Deployment on Chain`
 - Tokenization of CoolCat image/data.
-- CoolCat address will be known as VirtAdd which haas a subset or subsets for more detailed locations.
+- CoolCat address will be known as VirtAdd which will have a subset or subsets for more detailed security.
 - These subsets are named Depths and in the fur=ture will ongoing. For initial purposes, these "Depths" will max out at 2 layers.
   </p>
 
