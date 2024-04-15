@@ -43,13 +43,15 @@ function EventLIst() {
            
  
   return (
-    <div className="purple">
-       <p>Select file to upload and convert into base64 string</p>
-    <hr></hr>
+    <div>
+       <p className="purple" >Select file to upload and convert into base64 string</p>
+  
     <br></br>
-    <div id="first">
-    <label  htmlFor="fileUpload"></label>
-    <input  type="file" id="fileUpload" name="fileUpload"/>
+    <div id="first centeritems" >
+     
+    <label   htmlFor="fileUpload"></label>
+     
+    <input type="file" id="fileUpload" name="fileUpload"/>
     </div>
    
    

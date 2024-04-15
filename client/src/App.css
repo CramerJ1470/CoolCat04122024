@@ -1,13 +1,16 @@
 .App {
   text-align: center;
+  height: 129rem;
 
 
  
 }
 
 .App-logo {
-  height: rem;
+  height: 25rem;
   pointer-events: none;
+  z-index: -1;
+  margin-bottom: 5rem;
 }
 
 @media (prefers-reduced-motion: no-preference) {
@@ -19,20 +22,31 @@
 .mt20 {
  
   margin-top: 10rem;
-  color: rgb(93, 12, 126);
+  color: rgb(184, 101, 218);
+}
+
+.z1 {
+  z-index: 1;
 }
 
 .flex {
   display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
   margin-bottom: 5rem;
+}
+
+.labelbutton {
+  background-color: purple;
+  color: white;
 }
 
 .athird {
   color: white;
   width: 40rem;
   height: 25rem;
-  margin-left:8%;
-  margin-right: 8%;
+  margin-top: 5rem;
   background-color: purple;
   float:left;
   overflow-x: auto;
@@ -44,22 +58,20 @@
   color: white;
   width: 40rem;
   height: 25rem;
-  margin-left:8%;
-  margin-right: 8%;
+  margin-top: 5rem;
   background-color: purple;
   
 }
 
 .App-header {
   background-color:black;
-  min-height: 70vh;
-  display: flex;
+   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
-  padding-top: 3%;
+
   
 }
 
@@ -71,12 +83,14 @@
   color:blue;
   height: 10rem;
   position: absolute;
-  top: 13rem;
+  top: 7.5rem;
   z-index: 2;
 }
 
 .purple {
   color: orange;
+  z-index: 2;
+
 }
 
 .onethird {
@@ -88,6 +102,10 @@
   font-size: 2rem;
   text-align: center;
   
+}
+
+.centeritems {
+  align-items: center;
 }
 
 .centertext {
