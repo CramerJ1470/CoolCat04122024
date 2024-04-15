@@ -25,21 +25,14 @@
       Learn how to configure a non-root public URL by running `npm run build`.
     -->
     <title>React App</title>
-    <script  src="https://code/jquery.com/jquery-1.9.1.min.js""></script>
-    <script language="JavaScript" type="text/javascript" src="/js/jquery-1.2.6.min.js"></script>
-<script language="JavaScript" type="text/javascript" src="/js/jquery-ui-personalized-1.5.2.packed.js"></script>
+   
+
 
   </head>
   <body>
     <noscript>You need to enable JavaScript to run this app.</noscript>
     <div id="root"></div>
-    <h2>Select file to upload and convert into base64 string</h2>
-    <hr></hr>
-    <br></br>
-    <label for="fileUpload">Choose File:</label>
-    <input type="file" id="fileUpload" name="fileUpload"/>
-    <br></br>
-    <button id="jsonConvert">Click me to upload file and convert into base64</button>
+  
     <!--
       This HTML file is a template.
       If you open it directly in the browser, you will see an empty page.
@@ -51,19 +44,5 @@
       To create a production bundle, use `npm run build` or `yarn build`.
     -->
   </body>
-  <script type="text/javascript">
-    const toBase64 = file => new Promise((resolve,reject) => {
-       const reader = new FileReader();
-      reader.readAsDataURL(file);
-      reader.onload = () => resolve(reader.result);
-      reader.onerror = error => reject(error);
-    });
-    addEventListener('click',function() {
-      const uploadedFile = document.querySelector('#fileUpload').files[0];
-      toBase64(uploadedFile)
-      .then(res => {console.log(res);})
-      .catch(error => {console.log(error);
-      });
-          });
-   </script>
+ 
 </html>
