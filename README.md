@@ -23,17 +23,16 @@
 #
 > ## Overview
 <p align="justify">
-CoolCat will be a new way to store data at points in basically infinite larger or smaller node addresses. A form of hashing and key pairs to handshake and verify data locations. 
+CoolCat will be a new way to store data at points in basically infinite larger or smaller node addresses. A form of hashing and key pairs to handshake and verify CoolCat data locations. 
 </p>
 
 #
 > ## Core Features Implemented
 
 `Deployment on Chain`
-- Tokenization of CoolCat addresses holding selected data.
-- Initial Data sizes will allow up to 4.5mb image files (1000px x 1500px) 1,500,000px.
-- model is an x,y,z axis model for vitual address known as VirtAdd with a subset or subsets for more detailed locations.
-- These subsets are considered Depths and can be ongoing for initiall purposes, these Depths with max out at 12 layers (1100 Bin).
+- Tokenization of CoolCat image/data.
+- CoolCat address will be known as "VirtAdd" which will have a subset or subsets for more detailed security.
+- These subsets are named "Depths" and in the future can be many layers. For initial purposes, these "Depths" will max out at 2 layers.
   </p>
 
   #
