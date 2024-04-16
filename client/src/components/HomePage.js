@@ -1,6 +1,8 @@
 import React from 'react';
 import logo from '../fxVE.gif';
 import  EventList from "./EventLIst";
+import Depths from './Depths';
+
 
 function  HomePage() {
 
@@ -21,19 +23,18 @@ function  HomePage() {
             <div className="onethird">Base64 Encoded</div>
             </div>
             <span className="flex centertext">
-                
-             
+           
              
                
             </span>
-
+            <Depths/> 
             <p className="mt20">
               Where you get smaller and smaller while you get larger and larger
             </p>
           
             
           </div>
-        
+          
         </div>
          
         

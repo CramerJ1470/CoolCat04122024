@@ -1,4 +1,5 @@
 import React from 'react';
+import Depths from './Depths';
 
 function EventLIst() {
 
@@ -43,8 +44,9 @@ function EventLIst() {
            
  
   return (
+    
     <div>
-       <p className="purple" >Select file to upload and convert into base64 string</p>
+       <p className="purple" >Part 1: Select file to upload and convert into base64 string</p>
   
     <br></br>
     <div id="first centeritems" >
@@ -58,6 +60,8 @@ function EventLIst() {
     <br></br>
     <button  onClick={convertPlease}>Click me to upload file and convert into base64</button>
     </div>
+    
+             
   )
 }
 
